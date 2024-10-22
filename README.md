@@ -1,6 +1,6 @@
-### 👋 Hi, I’m @Javi0108
-### Web & Software Developer.
-### 📫 How to reach me gardojavi@gmail.com
+- 👋 Hello, I’m @Javi0108
+- Web & Software Developer.
+- 📫 How to reach me gardojavi@gmail.com
 
 <!--
 **Javi0108/Javi0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
